@@ -101,18 +101,15 @@
 
 ###
 
-<img align="right" height="150" src="https://media3.giphy.com/media/l1KVccToDJ6oz6qYg/giphy.gif?cid=ecf05e47ftjdjodazsl0uk5r96qrklcccjtedwtv3vxmqcs0&ep=v1_gifs_search&rid=giphy.gif&ct=g"  />
+
 
 ###
 
-<img src="https://raw.githubusercontent.com/Devansh-Bhagania/Devansh-Bhagania/output/snake.svg" alt="Snake animation" />
+
 
 ###
 
-<br clear="both">
 
-<div align="center">
-  <img src="https://profile-counter.glitch.me/Devansh-Bhagania/count.svg?"  />
-</div>
+
 
 ###
