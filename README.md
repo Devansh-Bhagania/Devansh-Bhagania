@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hello World!!<br>This is Devansh Bhagania <br>Founder of Devxcodex<br><Full Stack Developer/><br><Blockchain Developer/><br><React Native Developer/></p>
+<p align="left">Hello World!!<br>This is Devansh Bhagania <br>Founder of Devxcodex<br>Full Stack Developer<br>Blockchain Developer<br>React Native Developer</p>
 
 ###
 
