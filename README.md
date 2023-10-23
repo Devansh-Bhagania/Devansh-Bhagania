@@ -105,7 +105,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/Devansh-Bhagania/Devansh-Bhagania/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Devansh-Bhagania/Devansh-Bhagania/snake.svg" alt="Snake animation" />
 
 ###
 
