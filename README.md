@@ -1,26 +1,121 @@
 <h1 align="center">Hi 👋, I'm Devansh Bhagania</h1>
-<h3 align="center">A Full Stack Developer</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=devansh-bhagania&label=Profile%20views&color=0e75b6&style=flat" alt="devansh-bhagania" /> </p>
-
-
-
-- 🔭 I’m currently working on **ERP Systems**
-
-- 🌱 I’m currently learning **Web Sockets**
-
-- 📫 How to reach me **devanshbhagania19@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/devansh-bhagania-295112233" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="devansh-bhagania-295112233" height="30" width="40" /></a>
+<p align="center">
+  <a href="https://github.com/Devansh-Bhagania">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Full+Stack+Engineer+%7C+AI+Engineer;Building+AI+recruiting+agents+at+JobPeer;Python+%C2%B7+FastAPI+%C2%B7+NestJS+%C2%B7+AWS;RAG+pipelines%2C+AI+agents%2C+system+design" alt="Full Stack Engineer | AI Engineer" />
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.cockroachlabs.com/product/cockroachdb/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/cockroachdb.svg" alt="cockroachdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kafka.apache.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/apache_kafka/apache_kafka-icon.svg" alt="kafka" width="40" height="40"/> </a> <a href="https://kubernetes.io" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+<p align="center">
+  <a href="http://www.linkedin.com/in/devansh-bhagania-295112233/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://profolio-db.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
+  <a href="mailto:devanshbhagania19@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <img src="https://komarev.com/ghpvc/?username=devansh-bhagania&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="Profile views" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-bhagania&show_icons=true&locale=en&layout=compact" alt="devansh-bhagania" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=devansh-bhagania&show_icons=true&locale=en" alt="devansh-bhagania" /></p>
+### 🧑‍💻 About me
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=devansh-bhagania&" alt="devansh-bhagania" /></p>
+I'm a full stack and AI engineer from Chandigarh, India, with two years of internships shipping **Python (FastAPI)** and **NestJS** services on **AWS**. My focus is the backend: system design, PostgreSQL tuning, observability and making slow services fast. Lately I've been building **RAG pipelines** and **AI agents** that do real work.
+
+- 🔭 Building **[JobPeer](https://jobpeer.in/)**, an AI recruiting platform with sourcing agents that find, reach out to and screen candidates
+- 🛍️ Building AI workflows for **[LookHub](https://lookhub.com/en)**, a B2B wholesale fashion marketplace
+- 🎓 B.E. Computer Science, Chitkara University (2022 – 2026), CGPA 9.10
+- 📫 Reach me at **devanshbhagania19@gmail.com**
+
+---
+
+### 💼 Experience
+
+**SDE Intern · Appreciate Platform Private Limited** (fintech) · *Jul 2025 – Aug 2026*
+
+- Cut p95 latency of critical services from **~1,000 ms to under 600 ms**
+- Reduced 4xx and 5xx error responses by **35%** by tracing production issues to their root causes
+- Rolled out **OpenTelemetry + SigNoz** across **30+ services** for traces, logs and service health
+- Built FastAPI and Django services for mutual fund portfolios, transactions and investor onboarding (KYC, PAN lookup)
+
+**Full Stack Intern · Twwios Technology Private Limited** (hospitality) · *Jun 2024 – Jun 2025*
+
+- Designed a hotel booking platform serving **800+ hotel and villa partners** with **₹70K+ in daily orders** at p95 under 500 ms
+- Built an ETL pipeline syncing MySQL, MongoDB, PostgreSQL, Stripe and Freshsales into AWS Redshift
+- Built a Next.js + shadcn/ui component library from Figma, improving critical UX metrics by 25%
+
+---
+
+### 🚀 Featured projects
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4><a href="https://jobpeer.in/">JobPeer</a></h4>
+      <sub>AI recruiting platform for startups</sub>
+      <ul>
+        <li><b>3,000+ users</b>, <b>30+ employers</b></li>
+        <li>AI sourcing agents with a <b>28% reply rate</b></li>
+        <li>RAG on pgvector, fine-tuned Hugging Face models</li>
+        <li>Open-source <a href="https://github.com/Devansh-Bhagania/JPScraper">JPScraper</a> pulls jobs from 8 portals</li>
+      </ul>
+      <sub><code>FastAPI</code> <code>PostgreSQL</code> <code>pgvector</code> <code>Redis</code> <code>Playwright</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://www.invowealth.com/">Invo Wealth</a></h4>
+      <sub>Fintech mutual fund platform</sub>
+      <ul>
+        <li><b>₹4 Cr+ AUM</b> managed on the platform</li>
+        <li>End-to-end BSE StAR MF integration for lumpsum and SIP orders</li>
+        <li>Idempotent order APIs, AI portfolio scoring, WhatsApp alerts</li>
+      </ul>
+      <sub><code>FastAPI</code> <code>Flask</code> <code>Pandas</code> <code>NumPy</code></sub>
+    </td>
+    <td width="33%" valign="top">
+      <h4><a href="https://lookhub.com/en">LookHub</a></h4>
+      <sub>B2B wholesale fashion marketplace</sub>
+      <ul>
+        <li>ComfyUI image pipeline, <b>60%+ lift</b> in customer conversion</li>
+        <li>AI agents running catalogue and SEO for <b>5,000+ SKUs</b></li>
+        <li>Zero-downtime deploys on AWS ECS Fargate</li>
+      </ul>
+      <sub><code>MedusaJS</code> <code>PostgreSQL</code> <code>ComfyUI</code> <code>Docker</code></sub>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 🛠️ Tech stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,fastapi,flask,django,nodejs,nestjs&perline=10" alt="Languages and backend" /><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis,kafka,aws,docker,githubactions,gitlab,vercel&perline=10" alt="Data and cloud" /><br/>
+  <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,supabase&perline=10" alt="Frontend" />
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/RAG-pgvector-336791?style=flat-square" alt="RAG on pgvector" />
+  <img src="https://img.shields.io/badge/AI%20Agents-8A2BE2?style=flat-square" alt="AI agents" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-fine--tuning-FFD21E?style=flat-square&logo=huggingface&logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/ComfyUI-image%20pipelines-555555?style=flat-square" alt="ComfyUI" />
+  <img src="https://img.shields.io/badge/OpenTelemetry-SigNoz-425CC7?style=flat-square&logo=opentelemetry&logoColor=white" alt="OpenTelemetry" />
+  <img src="https://img.shields.io/badge/Pandas-NumPy-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas and NumPy" />
+</p>
+
+---
+
+### 🏆 Hackathons
+
+- 🥇 **1st of 400** participants, Joget Blockchain Hackathon (2022)
+- 🥇 **1st of 130 teams**, UIET Coffee and Code Hackathon (2023)
+- 🏅 **Best Web3 Hack**, Hack4Sustainability Hackathon, Thapar University (2023)
+
+---
+
+### 📊 GitHub stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=devansh-bhagania&show_icons=true&hide_border=true&theme=transparent&title_color=0e75b6&icon_color=0e75b6" alt="GitHub stats" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs?username=devansh-bhagania&layout=compact&hide_border=true&theme=transparent&title_color=0e75b6" alt="Top languages" />
+</p>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=devansh-bhagania&hide_border=true&theme=transparent&ring=0e75b6&fire=0e75b6&currStreakLabel=0e75b6" alt="GitHub streak" />
+</p>
